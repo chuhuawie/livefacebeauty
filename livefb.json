@@ -20,6 +20,8 @@
     "description": "Show your creativity to look more beautiful and stunning by using this..."
   },
 
+  "dialogAd":"true",
+
   "dialogAppAdObject": {
     "appId": "sweet.art.master.split.camera",
     "appName": "Split Camera",
@@ -57,9 +59,16 @@
     
       "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+
+      "dialogAd":"true",
      
       "unofficial": "1",
       "unofficialTip": "0: It's normal, 1: It's unofficial"
+    },
+
+    {
+      "packageName": "live.face.beauty.filter.forsnapchat",
+      "dialogAd":"false"
     }
   ],
 
