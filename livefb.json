@@ -60,7 +60,7 @@
       "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
 
-      "dialogAd":"true",
+      "dialogAd":"false",
      
       "unofficial": "1",
       "unofficialTip": "0: It's normal, 1: It's unofficial"
