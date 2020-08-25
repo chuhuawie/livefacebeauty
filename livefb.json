@@ -20,7 +20,7 @@
     "description": "Show your creativity to look more beautiful and stunning by using this..."
   },
 
-  "dialogAd":"true",
+  "dialogAd":"false",
 
   "dialogAppAdObject": {
     "appId": "sweet.art.master.split.camera",
