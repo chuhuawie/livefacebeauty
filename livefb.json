@@ -67,7 +67,13 @@
     },
 
     {
-      "packageName": "live.face.beauty.filter.forsnapchat"
+      "packageName": "live.face.beauty.filter.forsnapchat",
+
+      "bannerAdMob": "ca-app-pub-1411142614881795/2180164021",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/8948752350",
+      "rewardedVideoAdMob": "ca-app-pub-1411142614881795/3301674002",
+      "nativeAdMob": "ca-app-pub-1411142614881795/1988592334"
+
     }
   ],
 
