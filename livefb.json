@@ -73,7 +73,15 @@
       "interstitialAdMob": "ca-app-pub-1411142614881795/8948752350",
       "rewardedVideoAdMob": "ca-app-pub-1411142614881795/3301674002",
       "nativeAdMob": "ca-app-pub-1411142614881795/1988592334"
+    },
 
+    {
+      "packageName": "live.face.beauty.sweet.snap_beauty.camera",
+
+      "bannerAdMob": "ca-app-pub-1411142614881795/3783837385",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/7531510705",
+      "rewardedVideoAdMob": "ca-app-pub-1411142614881795/6218429035",
+      "nativeAdMob": "ca-app-pub-1411142614881795/4905347362"
     }
   ],
 
