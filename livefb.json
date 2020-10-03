@@ -75,8 +75,28 @@
       "nativeAdMob": "ca-app-pub-1411142614881795/1988592334"
     },
 
+     {
+      "packageName": "live.face.beauty.sticker.sweet.camera",
+
+      "bannerFAN": "3483754305001473_3483760558334181",
+      "interstitialFAN": "3483754305001473_3483754991668071",
+      "nativeFAN": "3483754305001473_3483754991668071"
+
+
+    },
+
     {
       "packageName": "live.face.beauty.sweet.snap_beauty.camera",
+
+
+      "homePageAdType": "fan", 
+      "mainAdType": "fan",
+
+
+      "bannerFAN": "712991882630953_712992829297525",
+      "interstitialFAN": "712991882630953_712992722630869",
+      "nativeFAN": "712991882630953_712992269297581",
+
 
       "bannerAdMob": "ca-app-pub-1411142614881795/3783837385",
       "interstitialAdMob": "ca-app-pub-1411142614881795/7531510705",
