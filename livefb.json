@@ -10,27 +10,27 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "sweet.art.master.split.camera",
-    "appName": "Split Camera - Collage Grid Maker",
+    "appId": "photoBeautyPlus.makeup.camera",
+    "appName": "Makeup Camera",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/splitgraphic.png",
-    "iconUrl": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/spliticon.jpg",
+    "iconUrl": "https://play-lh.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=s360-rw",
     "link": "",
-    "pubName": "Sweet Art Master",
-    "description": "Show your creativity to look more beautiful and stunning by using this..."
+    "pubName": "PHOTO BEAUTY PLUS",
+    "description": "Makeup Camera is a powerful editor that has many amazing effects and filters."
   },
 
   "dialogAd":"false",
 
   "dialogAppAdObject": {
-    "appId": "sweet.art.master.split.camera",
-    "appName": "Split Camera",
+    "appId": "photoBeautyPlus.makeup.camera",
+    "appName": "Makeup Camera",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/splitgraphic.png",
-    "iconUrl": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/spliticon.jpg",
+    "iconUrl": "https://play-lh.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=s360-rw",
     "link": "",
-    "pubName": "Sweet Art Master",
-    "description": "Show your creativity to look more beautiful and stunning by using this..."
+    "pubName": "PHOTO BEAUTY PLUS",
+    "description": "Makeup Camera is a powerful editor that has many amazing effects and filters."
   },
 
   "showAdLabel":"true",
