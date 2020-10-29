@@ -75,7 +75,13 @@
       "bannerAdMob": "ca-app-pub-1411142614881795/2180164021",
       "interstitialAdMob": "ca-app-pub-1411142614881795/8948752350",
       "rewardedVideoAdMob": "ca-app-pub-1411142614881795/3301674002",
-      "nativeAdMob": "ca-app-pub-1411142614881795/1988592334"
+      "nativeAdMob": "ca-app-pub-1411142614881795/1988592334",
+
+
+
+      "bannerFAN": "1040059213126868_1040060029793453",
+      "interstitialFAN": "1040059213126868_1040060089793447",
+      "nativeFAN": "1040059213126868_1040059529793503"
     },
 
      {
@@ -90,21 +96,6 @@
 
       "bannerAdMob": "ca-app-pub-1411142614881795/2169137268"
 
-
-    },
-
-
-     {
-      "packageName": "live.face.beauty.filter.forsnapchat",
-
-
-	  "homePageAdType": "fan", 
-      "mainAdType": "fan",
-
-
-      "bannerFAN": "1040059213126868_1040060029793453",
-      "interstitialFAN": "1040059213126868_1040060089793447",
-      "nativeFAN": "1040059213126868_1040059529793503"
 
     },
 
