@@ -69,6 +69,9 @@
     {
       "packageName": "live.face.beauty.filter.forsnapchat",
 
+	  "homePageAdType": "fan",     
+      "mainAdType": "fan",
+
       "bannerAdMob": "ca-app-pub-1411142614881795/2180164021",
       "interstitialAdMob": "ca-app-pub-1411142614881795/8948752350",
       "rewardedVideoAdMob": "ca-app-pub-1411142614881795/3301674002",
@@ -78,6 +81,9 @@
      {
       "packageName": "live.face.beauty.sticker.sweet.camera",
 
+      "homePageAdType": "fan",     
+      "mainAdType": "fan",
+
       "bannerFAN": "3483754305001473_3483760558334181",
       "interstitialFAN": "3483754305001473_3483758901667680",
       "nativeFAN": "3483754305001473_3483754991668071",
@@ -86,6 +92,22 @@
 
 
     },
+
+
+     {
+      "packageName": "live.face.beauty.filter.forsnapchat",
+
+
+	  "homePageAdType": "fan", 
+      "mainAdType": "fan",
+
+
+      "bannerFAN": "1040059213126868_1040060029793453",
+      "interstitialFAN": "1040059213126868_1040060089793447",
+      "nativeFAN": "1040059213126868_1040059529793503"
+
+    },
+
 
     {
       "packageName": "live.face.beauty.sweet.snap_beauty.camera",
