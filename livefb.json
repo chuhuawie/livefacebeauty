@@ -107,11 +107,28 @@
       "mainAdType": "fan",
 
 
-
       "bannerFAN": "877804339630311_877806216296790",
       "interstitialFAN": "877804339630311_877805902963488",
-      "nativeFAN": "877804339630311_877805286296883"
-     
+      "nativeFAN": "877804339630311_877805286296883",
+
+
+      "bannerAdMob": "ca-app-pub-1411142614881795/4343005894",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/9100508556",
+      "rewardedVideoAdMob": "",
+      "nativeAdMob": "ca-app-pub-1411142614881795/6331391901"
+    },
+
+
+    {
+      "packageName": "live.face.beauty.photo.frames",
+
+      "homePageAdType": "admob",     
+      "mainAdType": "admob",
+
+      "bannerAdMob": "ca-app-pub-1411142614881795/6051283746",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/9760246851",
+      "rewardedVideoAdMob": "ca-app-pub-1411142614881795/8485875396",
+      "nativeAdMob": "ca-app-pub-1411142614881795/7191785657"
     },
 
 
