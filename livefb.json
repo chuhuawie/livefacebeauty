@@ -98,6 +98,17 @@
       "nativeAdMob": "ca-app-pub-1411142614881795/4235194687"
     },
 
+       {
+      "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
+
+      "homePageAdType": "fan",     
+      "mainAdType": "fan",
+
+      "bannerFAN": "271075831182295_271076031182275",
+      "interstitialFAN": "271075831182295_271076217848923",
+      "nativeFAN": "271075831182295_271076304515581"
+    },
+
 
 
     {
