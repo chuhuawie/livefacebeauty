@@ -69,14 +69,12 @@
     {
       "packageName": "live.face.beauty.filter.forsnapchat",
 
-    "homePageAdType": "fan",     
-      "mainAdType": "fan",
+    "homePageAdType": "admob",     
+      "mainAdType": "admob",
 
-      "bannerAdMob": "ca-app-pub-1411142614881795/1555563599",
-      "interstitialAdMob": "ca-app-pub-1411142614881795/9261844980",
-      "nativeAdMob": "ca-app-pub-1411142614881795/7929400259",
-
-
+      "bannerAdMob": "ca-app-pub-5082741806887748/1478961728",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/6539716717",
+      "nativeAdMob": "ca-app-pub-5082741806887748/1287390034",
 
       "bannerFAN": "1040059213126868_1040060029793453",
       "interstitialFAN": "1040059213126868_1040060089793447",
@@ -86,27 +84,31 @@
      {
       "packageName": "live.face.beauty.sticker.sweet.camera",
 
-      "homePageAdType": "fan",     
-      "mainAdType": "fan",
+      "homePageAdType": "admob",     
+      "mainAdType": "admob",
 
       "bannerFAN": "3483754305001473_3483760558334181",
       "interstitialFAN": "3483754305001473_3483758901667680",
       "nativeFAN": "3483754305001473_3483754991668071",
 
-      "bannerAdMob": "ca-app-pub-1411142614881795/3249416076",
-      "interstitialAdMob": "ca-app-pub-1411142614881795/2838352538",
-      "nativeAdMob": "ca-app-pub-1411142614881795/4235194687"
+      "bannerAdMob": "ca-app-pub-5082741806887748/7086511625",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/9524972703",
+      "nativeAdMob": "ca-app-pub-5082741806887748/1493551391"
     },
 
        {
       "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
 
-      "homePageAdType": "fan",     
-      "mainAdType": "fan",
+      "homePageAdType": "admob",     
+      "mainAdType": "admob",
 
       "bannerFAN": "271075831182295_271076031182275",
       "interstitialFAN": "271075831182295_271076217848923",
-      "nativeFAN": "271075831182295_271076304515581"
+      "nativeFAN": "271075831182295_271076304515581",
+
+      "bannerAdMob": "ca-app-pub-5082741806887748/4852350084",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/5744126900",
+      "nativeAdMob": "ca-app-pub-5082741806887748/4660778396"
     },
 
 
@@ -114,8 +116,8 @@
     {
       "packageName": "live.face.beauty.filter4selfies",
 
-      "homePageAdType": "fan",     
-      "mainAdType": "fan",
+      "homePageAdType": "admob",     
+      "mainAdType": "admob",
 
 
       "bannerFAN": "877804339630311_877806216296790",
@@ -123,10 +125,10 @@
       "nativeFAN": "877804339630311_877805286296883",
 
 
-      "bannerAdMob": "ca-app-pub-1411142614881795/4343005894",
-      "interstitialAdMob": "ca-app-pub-1411142614881795/9100508556",
+      "bannerAdMob": "ca-app-pub-5082741806887748/3381348134",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/7670085116",
       "rewardedVideoAdMob": "",
-      "nativeAdMob": "ca-app-pub-1411142614881795/6331391901"
+      "nativeAdMob": "ca-app-pub-5082741806887748/6357003440"
     },
 
 
