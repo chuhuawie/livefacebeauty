@@ -137,10 +137,10 @@
       "homePageAdType": "admob",     
       "mainAdType": "admob",
 
-      "bannerAdMob": "ca-app-pub-1411142614881795/6051283746",
-      "interstitialAdMob": "ca-app-pub-1411142614881795/9760246851",
-      "rewardedVideoAdMob": "ca-app-pub-1411142614881795/8485875396",
-      "nativeAdMob": "ca-app-pub-1411142614881795/7191785657"
+      "bannerAdMob": "",
+      "interstitialAdMob": "",
+      "rewardedVideoAdMob": "",
+      "nativeAdMob": ""
     },
 
 
