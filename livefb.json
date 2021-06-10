@@ -84,16 +84,16 @@
      {
       "packageName": "live.face.beauty.sticker.sweet.camera",
 
-      "homePageAdType": "fan",     
-      "mainAdType": "fan",
+      "homePageAdType": "admob",     
+      "mainAdType": "admob",
 
       "bannerFAN": "3483754305001473_3483760558334181",
       "interstitialFAN": "3483754305001473_3483758901667680",
       "nativeFAN": "3483754305001473_3483754991668071",
 
-      "bannerAdMob": "",
-      "interstitialAdMob": "",
-      "nativeAdMob": ""
+      "bannerAdMob": "ca-app-pub-1411142614881795/7674072085",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/9917092046",
+      "nativeAdMob": "ca-app-pub-1411142614881795/6963625648"
     },
 
        {
