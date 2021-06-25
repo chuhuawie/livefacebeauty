@@ -116,8 +116,8 @@
     {
       "packageName": "live.face.beauty.filter4selfies",
 
-      "homePageAdType": "admob",     
-      "mainAdType": "admob",
+      "homePageAdType": "fan",     
+      "mainAdType": "fan",
 
 
       "bannerFAN": "877804339630311_877806216296790",
@@ -125,9 +125,9 @@
       "nativeFAN": "877804339630311_877805286296883",
 
 
-      "bannerAdMob": "ca-app-pub-1411142614881795/8027297439",
-      "interstitialAdMob": "ca-app-pub-1411142614881795/1092307700",
-      "nativeAdMob": "ca-app-pub-1411142614881795/8587654340"
+      "bannerAdMob": "",
+      "interstitialAdMob": "",
+      "nativeAdMob": ""
     },
 
 
