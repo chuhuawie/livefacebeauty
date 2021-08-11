@@ -66,6 +66,18 @@
       "unofficialTip": "0: It's normal, 1: It's unofficial"
     },
 
+     {
+      "packageName": "live.face.beauty.sweet.beauty.camera",
+
+    "homePageAdType": "admob",     
+      "mainAdType": "admob",
+
+      "bannerAdMob": "ca-app-pub-1411142614881795/7456814154",
+      "interstitialAdMob": "ca-app-pub-1411142614881795/8522483818",
+      "rewardedVideoAdMob": "ca-app-pub-1411142614881795/4583238808",
+      "nativeAdMob": "ca-app-pub-1411142614881795/2842781726"
+    },
+
     {
       "packageName": "live.face.beauty.filter.forsnapchat",
 
